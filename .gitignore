@@ -1,0 +1,11 @@
+.env
+.venv/
+jobs/
+output/
+state/
+__pycache__/
+.DS_Store
+*.log
+cookies.txt
+client_secret*.json
+token*.json
