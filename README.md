@@ -1,3 +1,6 @@
+### hash_yt_automatic
+구글 트랜드 검색어를 잡아서 자동으로 유튜브 쇼츠를 생성하는 프로그램 - 꾸준하게 포스팅해서 구독자를 모으려는 목적. 다양한 주제에 대해서 다룬다.
+
 # Auto Shorts
 
 Every N hours (4 by default) this picks Korean Google Trends keywords that are still rising and turns each one into a news Short in the channel's format. That format is a header, a footage panel, info cards, subtitles, ElevenLabs narration and BGM.
